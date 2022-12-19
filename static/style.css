@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+	font-family: 'Courier New', 'Courier';
+	color: white;
+}
+
+div {
+	text-align: center;
+}
+
+#text {
+	border: 2px solid white;
+	border-radius: 30px;
+}
+
+#button {
+	border: 1px solid #7289da;
+	border-radius: 30px;
+	background-color: #7289da;
+	color: white;
+}
+
+h1 {
+	color: #80c904;
+}
+
+c {
+	font-family: 'Courier New', 'Courier';
+	color: red;
+}
+
+a {
+	font-weight: bolder;
+	color: cyan;
+}
